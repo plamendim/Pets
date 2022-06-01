@@ -13,17 +13,6 @@ public class Pet{
         awesomeLevel = al;
         eyeColor = ec;
     }
-    public void attack(){
-        System.out.println("attacking...");
-    }
-    public void eat(){
-        System.out.println("eating...");
-
-    }
-    public void rest(){
-        System.out.println("resting...");
-
-    }
 
     public int getCutenessLevel() {
         return cutenessLevel;
